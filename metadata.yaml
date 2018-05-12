@@ -1,0 +1,36 @@
+_repo: Les-Contemporains-3-me-S-rie--13--tudes-et-Portraits-Litt-raires_25378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25378'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcsh 'Authors, French'
+tableOfContents: Octave Feuillet -- Edmond et Jules de Goncourt -- Pierre Loti --
+  H. Rabusson -- J. de Glouvet -- J. Soulary -- Le duc d'Aumale -- Gaston Paris --
+  Les femmes de France -- Chroniqueurs parisiens -- Henry Fouquier -- Henri Rochefort
+  -- Jean Richepin -- Paul Bourget.
+title: "Les Contemporains, 3ème Série\r\nÉtudes et Portraits Littéraires"
+url: http://www.gutenberg.org/ebooks/25378
